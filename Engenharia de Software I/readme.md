@@ -3,6 +3,7 @@
 Titus Winters, Software Engineering at Google
 
 Comentário:
+
 Ser engenheiro de software condiz com todas as mesmas responsabilidades de um desenvolvedor, incluindo algumas além daquelas previstas. Estes, possuem uma visão mais ampla do que os desenvolvedores, exigido então que esse profissional seja ainda mais organizado e preocupado.
 O engenheiro se preocupa em resolver os problemas e minimizar os trade-offs para outras partes do sistema.
 
