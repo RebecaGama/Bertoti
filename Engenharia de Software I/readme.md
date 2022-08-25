@@ -9,3 +9,5 @@ O engenheiro se preocupa em resolver os problemas e minimizar os trade-offs para
 
 
 O que é um trade-off na API?
+O trade off é a decisão que consiste na escolha de uma opção causando a perda de outra, ou seja, uma delas ficará de lado.
+Com base nisso, na API, devemos tomar a melhor decisão para a realização do projeto. Optando pela tecnologia que atende melhor a necessidade do cliente e que mais convém aos desenvolvedores. 
