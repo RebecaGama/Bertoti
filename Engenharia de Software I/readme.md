@@ -21,23 +21,19 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 **Sistema de uma sorveteria**
 <br><br>
 >Requisitos Funcionais:
-- Cadastrar os produtos a venda; 
-- Adiconar imagens;
+- Cadastrar os produtos a venda;
 
 <br>
 
 >Requisitos não funcionais:
-- Cadastrar os produtos a venda;
-- Adiconar imagens;
+- A;
 
 <br>
 
 >Diagrama de classes:
-- Cadastrar os produtos a venda;
-- Adiconar imagens;
+- A;
 
 <br>
 
 >Casos de uso:
-- Cadastrar os produtos a venda;
-- Adiconar imagens;
+- A;
