@@ -14,3 +14,30 @@ O engenheiro se preocupa em resolver os problemas e minimizar os trade-offs para
 
 >O trade off é a decisão que consiste na escolha de uma opção causando a perda de outra, ou seja, uma delas ficará de lado.
 Com base nisso, na API, devemos tomar a melhor decisão para a realização do projeto. Optando pela tecnologia que atende melhor a necessidade do cliente e que mais convém aos desenvolvedores.
+
+<br><br>
+
+### ATIVIDADE DE REQUISITOS
+**Sistema de uma sorveteria**
+<br><br>
+>Requisitos Funcionais:
+- Cadastrar os produtos a venda; 
+- Adiconar imagens;
+
+<br>
+
+>Requisitos não funcionais:
+- Cadastrar os produtos a venda;
+- Adiconar imagens;
+
+<br>
+
+>Diagrama de classes:
+- Cadastrar os produtos a venda;
+- Adiconar imagens;
+
+<br>
+
+>Casos de uso:
+- Cadastrar os produtos a venda;
+- Adiconar imagens;
