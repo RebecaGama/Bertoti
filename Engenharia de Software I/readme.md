@@ -18,10 +18,18 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 <br><br>
 
 ### ATIVIDADE REQUISITOS
-**Sistema de uma sorveteria**
-<br><br>
+**Sistema de uma floricultura**
+
+<br>
+
 >Requisitos Funcionais:
-- Cadastrar os produtos a venda;
+- Efetuar cadastro dos clientes e fornecedores
+- Cadastrar os produtos
+- Realizar as vendas
+- Consultar o status de um pedido
+- Agregar valores ao caixa
+- Atualizar estoque
+
 
 <br>
 
