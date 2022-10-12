@@ -17,7 +17,7 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 
 <br><br>
 
-### ATIVIDADE DE REQUISITOS
+### ATIVIDADE REQUISITOS
 **Sistema de uma sorveteria**
 <br><br>
 >Requisitos Funcionais:
@@ -30,7 +30,7 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 
 <br>
 
->Diagrama de classes:
+>Diagrama de classes UML:
 - A;
 
 <br>
