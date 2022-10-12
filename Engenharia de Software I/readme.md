@@ -1,31 +1,30 @@
 <p align="center">
-  <a href ="#atividade-01"> Atividade 01 </a>  • 
-  <a href ="#atividade-02"> Atividade 02 </a>  • 
-  <a href ="#atividade-03"> Atividade 03 </a>  • 
+  <a href ="#comentário-do-texto">Comentário do texto </a>  • 
+  <a href ="#trade-off-na-api">Trade-off </a>  • 
+  <a href ="#requisitos">Requisitos </a>  • 
+  <a href ="#diagrama-de-classes-uml">Diagrama de classes </a>  •
+  <a href ="#casos-de-uso">Casos de uso </a>
 
-## Atividade 01
+## Comentário do texto
 #### "We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth. Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming."
 Titus Winters, Software Engineering at Google
 
 <br>
-
-**Comentário do texto**
 
 >Ser engenheiro de software condiz com todas as mesmas responsabilidades de um desenvolvedor, incluindo algumas além daquelas previstas. Estes, possuem uma visão mais ampla do que os desenvolvedores, exigido então que esse profissional seja ainda mais organizado e preocupado.
 O engenheiro se preocupa em resolver os problemas e minimizar os trade-offs para outras partes do sistema.
 
 <br><br>
 
-## Atividade 02
-**O que é um trade-off na API?**
+## Trade-off na API
 
 >O trade off é a decisão que consiste na escolha de uma opção causando a perda de outra, ou seja, uma delas ficará de lado.
 Com base nisso, na API, devemos tomar a melhor decisão para a realização do projeto. Optando pela tecnologia que atende melhor a necessidade do cliente e que mais convém aos desenvolvedores.
 
 <br><br>
 
-## Atividade 03
-**Requisitos - Sistema de uma floricultura**
+## Requisitos
+**Sistema de uma floricultura**
 
 <br>
 
@@ -37,7 +36,6 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 - Agregar valores ao caixa
 - Atualizar estoque
 
-
 <br>
 
 >Requisitos não funcionais:
@@ -47,11 +45,10 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 - Protocolo de segurança
 - Controle de uso do sistema
 
-
 <br>
 
->Diagrama de classes UML:
+## Diagrama de classes UML
 
-<br>
+<br><br>
 
->Casos de uso:
+## Casos de uso
