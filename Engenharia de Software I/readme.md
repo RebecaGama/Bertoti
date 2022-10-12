@@ -34,14 +34,17 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 <br>
 
 >Requisitos não funcionais:
-- A;
+- Interface simples e intuitiva
+- Portabilidade
+- Suporte a SGBD
+- Protocolo de segurança
+- Controle de uso do sistema
+
 
 <br>
 
 >Diagrama de classes UML:
-- A;
 
 <br>
 
 >Casos de uso:
-- A;
