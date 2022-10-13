@@ -34,7 +34,6 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 - Realizar as vendas
 - Consultar o status de um pedido
 - Agregar valores ao caixa
-- Atualizar estoque
 
 <br>
 
