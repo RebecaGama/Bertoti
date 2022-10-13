@@ -52,3 +52,4 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 <br><br>
 
 ## Casos de uso
+![Caso de Uso](https://user-images.githubusercontent.com/102360635/195723429-1d0fab27-d6c4-4dde-8a9d-f8cfd96bcb08.png)
