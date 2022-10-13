@@ -46,7 +46,8 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 
 <br>
 
-## Diagrama de classes UML
+## Diagrama de classes
+![Diagrama de classe](https://user-images.githubusercontent.com/102360635/195708869-8d7bdfc2-e5b2-498e-81f2-2a46d71a9f5b.png)
 
 <br><br>
 
