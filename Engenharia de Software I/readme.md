@@ -47,9 +47,9 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 <br>
 
 ## Diagrama de classes
-![Diagrama de Classe (1)](https://user-images.githubusercontent.com/102360635/196004921-f92a2493-ded3-465c-8711-148692e04658.png)
+
 
 <br><br>
 
 ## Casos de uso
-![Caso de uso (1)](https://user-images.githubusercontent.com/102360635/196004925-a6e9f926-63a2-4928-a77e-d37871021ab3.png)
+
