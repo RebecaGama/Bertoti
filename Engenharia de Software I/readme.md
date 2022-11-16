@@ -45,12 +45,12 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 <br>
 
 ## Diagrama de classes
-![Diagrama de Classe](https://user-images.githubusercontent.com/102360635/202069773-13529d32-a011-4a3f-9235-b4c496595c9b.png)
+![Diagrama de Classe](https://user-images.githubusercontent.com/102360635/202156827-fbef3f25-da0e-4b2a-a09c-6171c4d318b3.png)
 
 <br><br>
 
 ## Casos de uso
-![Caso de Uso](https://user-images.githubusercontent.com/102360635/202069782-f5b06177-f853-457e-a676-e96c15a3ebca.png)
+![Caso de Uso](https://user-images.githubusercontent.com/102360635/202156875-3c4bc4c7-0e40-4b34-8d61-a74b9bb389fb.png)
 
 <br><br>
 
