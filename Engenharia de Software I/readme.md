@@ -30,18 +30,15 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 <br>
 
 >Requisitos Funcionais:
-- Efetuar cadastro dos clientes e fornecedores
+- Efetuar cadastro dos fornecedores
 - Cadastrar os produtos
-- Realizar as vendas
-- Consultar o status de um pedido
-- Agregar valores ao caixa
+- Consultar dados cadastrados
 
 <br>
 
 >Requisitos não funcionais:
 - Interface simples e intuitiva
 - Portabilidade
-- Suporte a SGBD
 - Protocolo de segurança
 - Controle de uso do sistema
 
