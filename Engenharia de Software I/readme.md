@@ -46,7 +46,7 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 <br>
 
 ## Diagrama de classes
-![Diagrama de Classe](https://user-images.githubusercontent.com/102360635/202266256-2e26f11a-7679-4d09-8cba-1b7ee2a0e768.png)
+![Diagrama de Classe](https://user-images.githubusercontent.com/102360635/202266256-2e26f11a-7679-4d09-8cba-1b7ee2a0e768.png) alt="Image" height="50" width="50">
 
 <br><br>
 
@@ -80,6 +80,10 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 
 <br>
 
+![CodFornecedor](https://user-images.githubusercontent.com/102360635/202273632-d4e7f0f1-1bfd-430e-b463-4af555118b0f.png)
+
+<br>
+
 >Classe Produto
 
 <br>
@@ -89,6 +93,10 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 <br>
 
 >Código em Java
+
+<br>
+
+![CodProduto](https://user-images.githubusercontent.com/102360635/202273597-10262f3d-cff5-43e5-90ea-bc06592fc71b.png)
 
 <br><br>
 
