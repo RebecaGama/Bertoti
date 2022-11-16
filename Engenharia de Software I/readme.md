@@ -4,6 +4,7 @@
   <a href ="#requisitos">Requisitos </a>  • 
   <a href ="#diagrama-de-classes">Diagrama de classes </a>  •
   <a href ="#casos-de-uso">Casos de uso </a>  •
+  <a href ="#desenvolvimento">Desenvolvimento </a>  •
   <a href ="#aplicação">Aplicação </a>
 
 ## Comentário do texto
@@ -45,12 +46,49 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 <br>
 
 ## Diagrama de classes
-![Diagrama de Classe](https://user-images.githubusercontent.com/102360635/202156827-fbef3f25-da0e-4b2a-a09c-6171c4d318b3.png)
+![Diagrama de Classe](https://user-images.githubusercontent.com/102360635/202266256-2e26f11a-7679-4d09-8cba-1b7ee2a0e768.png)
 
 <br><br>
 
 ## Casos de uso
-![Caso de Uso](https://user-images.githubusercontent.com/102360635/202156875-3c4bc4c7-0e40-4b34-8d61-a74b9bb389fb.png)
+![Caso de Uso](https://user-images.githubusercontent.com/102360635/202266286-5f3469cb-ee0b-4923-808d-f45a2013a912.png)
+
+<br><br>
+
+## Desenvolvimento
+>Classe Sistema_Floricultura
+
+<br>
+
+![ClasseSistemaFloricultura](https://user-images.githubusercontent.com/102360635/202268265-00214a44-0de6-4b83-9523-6bacbdfec553.png)
+
+<br>
+
+>Código em Java
+
+<br>
+
+>Classe Fornecedor
+
+<br>
+
+![ClasseFornecedor](https://user-images.githubusercontent.com/102360635/202268286-9cece3a5-9f92-4a2f-9773-f0669148782d.png)
+
+<br>
+
+>Código em Java
+
+<br>
+
+>Classe Produto
+
+<br>
+
+![ClasseProduto](https://user-images.githubusercontent.com/102360635/202268301-7c31f009-1b3e-4c35-83cf-24fd2cc93266.png)
+
+<br>
+
+>Código em Java
 
 <br><br>
 
