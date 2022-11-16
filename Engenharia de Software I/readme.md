@@ -46,57 +46,41 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 <br>
 
 ## Diagrama de classes
-![Diagrama de Classe](https://user-images.githubusercontent.com/102360635/202266256-2e26f11a-7679-4d09-8cba-1b7ee2a0e768.png) alt="Image" height="50" width="50">
+![DiagramadeClasse](https://user-images.githubusercontent.com/102360635/202278921-eb7af584-6077-4dc1-81d7-330cc68e5d34.png)
 
 <br><br>
 
 ## Casos de uso
-![Caso de Uso](https://user-images.githubusercontent.com/102360635/202266286-5f3469cb-ee0b-4923-808d-f45a2013a912.png)
+![CasodeUso](https://user-images.githubusercontent.com/102360635/202279917-218ddc86-1c3d-4dee-a493-22ebf01b4df4.png)
 
 <br><br>
 
 ## Desenvolvimento
->Classe Sistema_Floricultura
+>Classe e Código Sistema_Floricultura
 
 <br>
 
-![ClasseSistemaFloricultura](https://user-images.githubusercontent.com/102360635/202268265-00214a44-0de6-4b83-9523-6bacbdfec553.png)
+![ClasseSistemaFloricultura](https://user-images.githubusercontent.com/102360635/202281428-894e35fb-9149-4249-a47c-c05f226320dd.png)
 
 <br>
 
->Código em Java
+>Classe e Código Fornecedor
 
 <br>
 
->Classe Fornecedor
+![ClasseFornecedor (1)](https://user-images.githubusercontent.com/102360635/202282100-31689175-f1e2-447e-befb-c0f457ce83f9.png)
+
+![CodFornecedor](https://user-images.githubusercontent.com/102360635/202282703-958b4899-7ce4-4c19-9965-5afcc4d3bba5.png)
 
 <br>
 
-![ClasseFornecedor](https://user-images.githubusercontent.com/102360635/202268286-9cece3a5-9f92-4a2f-9773-f0669148782d.png)
+>Classe e Código Produto
 
 <br>
 
->Código em Java
+![ClasseProduto](https://user-images.githubusercontent.com/102360635/202281602-ce638d56-e6e3-4ef0-86f5-e545088f2aec.png)
 
-<br>
-
-![CodFornecedor](https://user-images.githubusercontent.com/102360635/202273632-d4e7f0f1-1bfd-430e-b463-4af555118b0f.png)
-
-<br>
-
->Classe Produto
-
-<br>
-
-![ClasseProduto](https://user-images.githubusercontent.com/102360635/202268301-7c31f009-1b3e-4c35-83cf-24fd2cc93266.png)
-
-<br>
-
->Código em Java
-
-<br>
-
-![CodProduto](https://user-images.githubusercontent.com/102360635/202273597-10262f3d-cff5-43e5-90ea-bc06592fc71b.png)
+![CodProduto](https://user-images.githubusercontent.com/102360635/202282464-5ecbc150-764e-4e4e-bf48-59d6ce5fb786.png)
 
 <br><br>
 
