@@ -46,12 +46,12 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 <br>
 
 ## Diagrama de classes
-![DiagramadeClasse](https://user-images.githubusercontent.com/102360635/202278921-eb7af584-6077-4dc1-81d7-330cc68e5d34.png)
+![Diagrama de Classe](https://user-images.githubusercontent.com/102360635/202474792-592daa5f-3eca-474a-8a90-50be022c7317.jpg)
 
 <br><br>
 
 ## Casos de uso
-![CasodeUso](https://user-images.githubusercontent.com/102360635/202279917-218ddc86-1c3d-4dee-a493-22ebf01b4df4.png)
+![Caso de Uso](https://user-images.githubusercontent.com/102360635/202472363-5b66dc65-62c2-4f16-8f3f-a36ec895bbab.jpg)
 
 <br><br>
 
@@ -70,7 +70,7 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 
 <br>
 
-![ClasseFornecedor (1)](https://user-images.githubusercontent.com/102360635/202282100-31689175-f1e2-447e-befb-c0f457ce83f9.png)
+![ClasseFornecedor](https://user-images.githubusercontent.com/102360635/202478467-0301b110-aec6-4e96-b261-637675bba84e.jpg)
 
 ![CodFornecedor](https://user-images.githubusercontent.com/102360635/202282703-958b4899-7ce4-4c19-9965-5afcc4d3bba5.png)
 
@@ -80,7 +80,7 @@ Com base nisso, na API, devemos tomar a melhor decisão para a realização do p
 
 <br>
 
-![ClasseProduto](https://user-images.githubusercontent.com/102360635/202281602-ce638d56-e6e3-4ef0-86f5-e545088f2aec.png)
+![ClasseProduto](https://user-images.githubusercontent.com/102360635/202478560-d708787a-cbb3-4eb5-8b55-324a40a64e34.jpg)
 
 ![CodProduto](https://user-images.githubusercontent.com/102360635/202282464-5ecbc150-764e-4e4e-bf48-59d6ce5fb786.png)
 
