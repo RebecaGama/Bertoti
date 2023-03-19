@@ -18,7 +18,7 @@
 <br>
 
 <h3 id="1.visibilidade-do-status-do-sistema">1. Visibilidade do status do sistema</h2>
-Função que consiste em informar o que está acontecendo em tempo real para o usuário.
+O sistema deve informar o que está acontecendo em tempo real para o usuário.
 
 <div align="center">
   <img width="700px" src="./IHC/imagens/heuristica1.1_img.png">
@@ -35,7 +35,7 @@ Figura 2: Exemplo negativo de visibilidade do status do sistema.
 <br>
 
 <h3 id="2.correspondência-entre-o-sistema-e-o-mundo-real">2. Correspondência entre o sistema e o mundo real</h2>
-Exemplo da 2º Heurística
+O sistema deve ter a mesma linguagem que seu usuário utiliza no dia a dia, conceitos que sejam familiares.
 
 <div align="center">
   <img width="700px" src="./IHC/imagens/heuristica2.1_img.png">
@@ -51,7 +51,7 @@ Figura 4: Exemplo negativo de correspondência entre o sistema e o mundo real.
 <br>
 
 <h3 id="3.controle-e-liberdade-do-usuário">3. Controle e liberdade do usuário</h2>
-Exemplo da 3º Heurística
+O sistema deve dar ao usuário a liberdade de fazer o que quiser, facilitando a compreensão do conteúdo que irá consumir.
 
 <div align="center">
   <img width="700px" src="./IHC/imagens/heuristica3.1_img.png">
@@ -67,7 +67,7 @@ Figura 6: Exemplo negativo de controle e liberdade do usuário.
 <br>
 
 <h3 id="4.consistência-e-padrões">4. Consistência e padrões</h2>
-Exemplo da 4º Heurística
+A interface deve manter uma consistência, garantir a harmonia visual e induzir o costume para o usuário.
 
 <div align="center">
   <img width="700px" src="./IHC/imagens/heuristica4.1_img.png">
@@ -83,7 +83,7 @@ Figura 8: Exemplo negativo de consistência e padrões.
 <br>
 
 <h3 id="5.prevenção-de-erros">5. Prevenção de erros</h2>
-Exemplo da 5º Heurística
+O sistema deve buscar prevenir que problemas ocorram, eliminando condições mais propensas ao erro.
 
 <div align="center">
   <img width="700px" src="./IHC/imagens/heuristica5.1_img.png">
@@ -99,7 +99,7 @@ Figura 10: Exemplo negativo de prevenção de erros.
 <br>
 
 <h3 id="6.reconhecimento-em-vez-de-lembrança">6. Reconhecimento em vez de lembrança</h2>
-Exemplo da 6º Heurística
+Aconselha-se minimizar a quantidade de informações que o usuário precisa memorizar, para isso, são utilizados padrões para o reconhecimento.
 
 <div align="center">
   <img width="700px" src="./IHC/imagens/heuristica6.1_img.png">
@@ -115,7 +115,7 @@ Figura 12: Exemplo negativo de reconhecimento em vez de lembrança.
 <br>
 
 <h3 id="7.flexibilidade-e-eficiência-de-uso">7. Flexibilidade e eficiência de uso</h2>
-Exemplo da 7º Heurística
+A interface deve permitir que os usuários tenham uma boa experiência com o sistema e se adaptem as ações frequentes.
 
 <div align="center">
   <img width="700px" src="./IHC/imagens/heuristica7.1_img.png">
@@ -131,7 +131,7 @@ Figura 14: Exemplo negativo de flexibilidade e eficiência de uso.
 <br>
 
 <h3 id="8.estética-e-design-minimalista">8. Estética e design minimalista</h2>
-Exemplo da 8º Heurística
+A interface deve ser minimalista e o conteúdo o mais direto possível, para não cansar o usuário.
 
 <div align="center">
   <img width="700px" src="./IHC/imagens/heuristica8.1_img.png">
@@ -147,23 +147,23 @@ Figura 16: Exemplo negativo de estética e design minimalista.
 <br>
 
 <h3 id="9.ajudar-o-usuário-a-reconhecer,-diagnosticar-e-recuperar-se-de-erros">9. Ajudar o usuário a reconhecer, diagnosticar e recuperar-se de erros</h2>
-Exemplo da 9º Heurística
+Em caso de algum erro, mostrar mensagens claras e objetivas e próximas da ação que causou o erro.
 
 <div align="center">
   <img width="700px" src="./IHC/imagens/heuristica9.1_img.png">
 </div>
-Figura 17: Exemplo de ajudar o usuário a reconhecer, diagnosticar e recuperar-se de erros.
+Figura 17: Exemplo de ajuda ao usuário reconhecer, diagnosticar e recuperar-se de erros.
 
 <div align="center">
   <img width="700px" src="./IHC/imagens/heuristica9.2_img.png">
 </div>
 
-Figura 18: Exemplo negativo de ajudar o usuário a reconhecer, diagnosticar e recuperar-se de erros.
+Figura 18: Exemplo negativo de ajuda ao usuário reconhecer, diagnosticar e recuperar-se de erros.
 
 <br>
 
 <h3 id="10.ajuda-e-documentação">10. Ajuda e documentação</h2>
-Exemplo da 10º Heurística
+Preparar uma ferramenta de auxílio ao usuário, de forma mais detalhada, facilitando a usabilidade.
 
 <div align="center">
   <img width="700px" src="./IHC/imagens/heuristica10.1_img.png">
