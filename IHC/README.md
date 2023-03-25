@@ -22,15 +22,15 @@ O sistema deve informar o que está acontecendo em tempo real para o usuário.
 
 <div align="center">
   <img width="700px" src="../IHC/imagens/heuristica1.1_img.png">
+  <br>Figura 1: Exemplo de visibilidade do status do sistema.
 </div>
 
-Figura 1: Exemplo de visibilidade do status do sistema.
+<br>
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica1.2_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica1.2_img.png">
+  <br>Figura 2: Exemplo negativo de visibilidade do status do sistema.
 </div>
-
-Figura 2: Exemplo negativo de visibilidade do status do sistema.
 
 <br>
 
@@ -38,15 +38,16 @@ Figura 2: Exemplo negativo de visibilidade do status do sistema.
 O sistema deve ter a mesma linguagem que seu usuário utiliza no dia a dia, conceitos que sejam familiares.
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica2.1_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica2.1_img.png">
+  <br>Figura 3: Exemplo de correspondência entre o sistema e o mundo real.
 </div>
-Figura 3: Exemplo de correspondência entre o sistema e o mundo real.
+
+<br>
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica2.2_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica2.2_img.png">
+  <br>Figura 4: Exemplo negativo de correspondência entre o sistema e o mundo real.
 </div>
-
-Figura 4: Exemplo negativo de correspondência entre o sistema e o mundo real.
 
 <br>
 
@@ -54,15 +55,16 @@ Figura 4: Exemplo negativo de correspondência entre o sistema e o mundo real.
 O sistema deve dar ao usuário a liberdade de fazer o que quiser, facilitando a compreensão do conteúdo que irá consumir.
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica3.1_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica3.1_img.png">
+  <br>Figura 5: Exemplo de controle e liberdade do usuário.
 </div>
-Figura 5: Exemplo de controle e liberdade do usuário.
+
+<br>
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica3.2_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica3.2_img.png">
+  <br>Figura 6: Exemplo negativo de controle e liberdade do usuário.
 </div>
-
-Figura 6: Exemplo negativo de controle e liberdade do usuário.
 
 <br>
 
@@ -70,15 +72,16 @@ Figura 6: Exemplo negativo de controle e liberdade do usuário.
 A interface deve manter uma consistência, garantir a harmonia visual e induzir o costume para o usuário.
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica4.1_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica4.1_img.png">
+  <br>Figura 7: Exemplo de consistência e padrões.
 </div>
-Figura 7: Exemplo de consistência e padrões.
+
+<br>
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica4.2_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica4.2_img.png">
+  <br>Figura 8: Exemplo negativo de consistência e padrões.
 </div>
-
-Figura 8: Exemplo negativo de consistência e padrões.
 
 <br>
 
@@ -86,15 +89,16 @@ Figura 8: Exemplo negativo de consistência e padrões.
 O sistema deve buscar prevenir que problemas ocorram, eliminando condições mais propensas ao erro.
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica5.1_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica5.1_img.png">
+  <br>Figura 9: Exemplo de prevenção de erros.
 </div>
-Figura 9: Exemplo de prevenção de erros.
+
+<br>
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica5.2_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica5.2_img.png">
+  <br>Figura 10: Exemplo negativo de prevenção de erros.
 </div>
-
-Figura 10: Exemplo negativo de prevenção de erros.
 
 <br>
 
@@ -102,15 +106,16 @@ Figura 10: Exemplo negativo de prevenção de erros.
 Aconselha-se minimizar a quantidade de informações que o usuário precisa memorizar, para isso, são utilizados padrões para o reconhecimento.
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica6.1_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica6.1_img.png">
+  <br>Figura 11: Exemplo de reconhecimento em vez de lembrança.
 </div>
-Figura 11: Exemplo de reconhecimento em vez de lembrança.
+
+<br>
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica6.2_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica6.2_img.png">
+  <br>Figura 12: Exemplo negativo de reconhecimento em vez de lembrança.
 </div>
-
-Figura 12: Exemplo negativo de reconhecimento em vez de lembrança.
 
 <br>
 
@@ -118,15 +123,16 @@ Figura 12: Exemplo negativo de reconhecimento em vez de lembrança.
 A interface deve permitir que os usuários tenham uma boa experiência com o sistema e se adaptem as ações frequentes.
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica7.1_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica7.1_img.png">
+  <br>Figura 13: Exemplo de flexibilidade e eficiência de uso.
 </div>
-Figura 13: Exemplo de flexibilidade e eficiência de uso.
+
+<br>
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica7.2_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica7.2_img.png">
+  <br>Figura 14: Exemplo negativo de flexibilidade e eficiência de uso.
 </div>
-
-Figura 14: Exemplo negativo de flexibilidade e eficiência de uso.
 
 <br>
 
@@ -134,15 +140,16 @@ Figura 14: Exemplo negativo de flexibilidade e eficiência de uso.
 A interface deve ser minimalista e o conteúdo o mais direto possível, para não cansar o usuário.
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica8.1_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica8.1_img.png">
+  <br>Figura 15: Exemplo de estética e design minimalista.
 </div>
-Figura 15: Exemplo de estética e design minimalista.
+
+<br>
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica8.2_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica8.2_img.png">
+  <br>Figura 16: Exemplo negativo de estética e design minimalista.
 </div>
-
-Figura 16: Exemplo negativo de estética e design minimalista.
 
 <br>
 
@@ -150,15 +157,16 @@ Figura 16: Exemplo negativo de estética e design minimalista.
 Em caso de algum erro, mostrar mensagens claras e objetivas e próximas da ação que causou o erro.
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica9.1_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica9.1_img.png">
+  <br>Figura 17: Exemplo de ajuda ao usuário reconhecer, diagnosticar e recuperar-se de erros.
 </div>
-Figura 17: Exemplo de ajuda ao usuário reconhecer, diagnosticar e recuperar-se de erros.
+
+<br>
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica9.2_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica9.2_img.png">
+  <br>Figura 18: Exemplo negativo de ajuda ao usuário reconhecer, diagnosticar e recuperar-se de erros.
 </div>
-
-Figura 18: Exemplo negativo de ajuda ao usuário reconhecer, diagnosticar e recuperar-se de erros.
 
 <br>
 
@@ -166,14 +174,15 @@ Figura 18: Exemplo negativo de ajuda ao usuário reconhecer, diagnosticar e recu
 Preparar uma ferramenta de auxílio ao usuário, de forma mais detalhada, facilitando a usabilidade.
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica10.1_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica10.1_img.png">
+  <br>Figura 19: Exemplo de ajuda e documentação.
 </div>
-Figura 19: Exemplo de ajuda e documentação.
+
+<br>
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica10.2_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica10.2_img.png">
+  <br>Figura 20: Exemplo negativo de ajuda e documentação.
 </div>
-
-Figura 20: Exemplo negativo de ajuda e documentação.
 
 <br>
