@@ -21,7 +21,7 @@
 O sistema deve informar o que está acontecendo em tempo real para o usuário.
 
 <div align="center">
-  <img width="700px" src="./IHC/imagens/heuristica1.1_img.png">
+  <img width="700px" src="../IHC/imagens/heuristica1.1_img.png">
 </div>
 
 Figura 1: Exemplo de visibilidade do status do sistema.
