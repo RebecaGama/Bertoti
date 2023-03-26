@@ -96,7 +96,7 @@ O sistema deve buscar prevenir que problemas ocorram, eliminando condições mai
 <br>
 
 <div align="center">
-  <img width="400px" src="../IHC/imagens/heuristica5.2_img.png">
+  <img width="200px" src="../IHC/imagens/heuristica5.2_img.png">
   <br>Figura 10: Exemplo negativo de prevenção de erros.
 </div>
 
