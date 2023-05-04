@@ -23,6 +23,7 @@ O sistema deve informar o que está acontecendo em tempo real para o usuário.
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica1.1_img.png">
   <br>Figura 1: Exemplo de visibilidade do status do sistema.
+  <br> O sistema permite visualizar qual o status atual
 </div>
 
 <br>
@@ -30,6 +31,7 @@ O sistema deve informar o que está acontecendo em tempo real para o usuário.
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica1.2_img.png">
   <br>Figura 2: Exemplo negativo de visibilidade do status do sistema.
+  <br> O sistema não mostra qual o atual status atual, apenas que a página está carregando 
 </div>
 
 <br>
@@ -40,6 +42,7 @@ O sistema deve ter a mesma linguagem que seu usuário utiliza no dia a dia, conc
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica2.1_img.png">
   <br>Figura 3: Exemplo de correspondência entre o sistema e o mundo real.
+  <br>familiaridade com objetos do mundo real
 </div>
 
 <br>
@@ -47,6 +50,7 @@ O sistema deve ter a mesma linguagem que seu usuário utiliza no dia a dia, conc
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica2.2_img.png">
   <br>Figura 4: Exemplo negativo de correspondência entre o sistema e o mundo real.
+  <br>Linguagem excessivamente técnica
 </div>
 
 <br>
@@ -181,7 +185,7 @@ Preparar uma ferramenta de auxílio ao usuário, de forma mais detalhada, facili
 <br>
 
 <div align="center">
-  <img width="400px" src="../IHC/imagens/heuristica10.2_img.png">
+  <img width="200px" src="../IHC/imagens/heuristica10.2_img.jpeg">
   <br>Figura 20: Exemplo negativo de ajuda e documentação.
 </div>
 
