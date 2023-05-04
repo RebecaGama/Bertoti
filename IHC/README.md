@@ -23,7 +23,7 @@ O sistema deve informar o que está acontecendo em tempo real para o usuário.
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica1.1_img.png">
   <br>Figura 1: Exemplo de visibilidade do status do sistema.
-  <br> O sistema permite visualizar qual o status atual
+  <br><b>O sistema permite visualizar qual o status atual</b>
 </div>
 
 <br>
@@ -31,7 +31,7 @@ O sistema deve informar o que está acontecendo em tempo real para o usuário.
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica1.2_img.png">
   <br>Figura 2: Exemplo negativo de visibilidade do status do sistema.
-  <br> O sistema não mostra qual o atual status atual, apenas que a página está carregando 
+  <br><b>O sistema mostra apenas que a página está carregando</b>
 </div>
 
 <br>
@@ -42,7 +42,7 @@ O sistema deve ter a mesma linguagem que seu usuário utiliza no dia a dia, conc
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica2.1_img.png">
   <br>Figura 3: Exemplo de correspondência entre o sistema e o mundo real.
-  <br>familiaridade com objetos do mundo real
+  <br><b>Familiaridade com objetos do mundo real</b>
 </div>
 
 <br>
@@ -50,7 +50,7 @@ O sistema deve ter a mesma linguagem que seu usuário utiliza no dia a dia, conc
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica2.2_img.png">
   <br>Figura 4: Exemplo negativo de correspondência entre o sistema e o mundo real.
-  <br>Linguagem excessivamente técnica
+  <br><b>Linguagem excessivamente técnica</b>
 </div>
 
 <br>
@@ -61,7 +61,7 @@ O sistema deve dar ao usuário a liberdade de fazer o que quiser, facilitando a 
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica3.1_img.png">
   <br>Figura 5: Exemplo de controle e liberdade do usuário.
-  <br>O botão 'desfazer' permite cancelar o envio da mensagem 
+  <br><b>O botão 'desfazer' permite cancelar o envio da mensagem</b>
 </div>
 
 <br>
@@ -72,7 +72,7 @@ A interface deve manter uma consistência, garantir a harmonia visual e induzir 
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica4.1_img.png">
   <br>Figura 7: Exemplo de consistência e padrões.
-  <br>interface mantem uma consistência, permitindo que o usuário identifique os padrões de estética
+  <br><b>Interface mantém uma consistência, permitindo que o usuário identifique os padrões de estética</b>
 </div>
 
 <br>
@@ -80,7 +80,7 @@ A interface deve manter uma consistência, garantir a harmonia visual e induzir 
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica4.2_img.png">
   <br>Figura 8: Exemplo negativo de consistência e padrões.
-  <br>Falta de padronização, muitas cores, imagens sem harmonia
+  <br><b>Falta de padronização, muitas cores e imagens sem harmonia</b>
 </div>
 
 <br>
@@ -91,7 +91,7 @@ O sistema deve buscar prevenir que problemas ocorram, eliminando condições mai
 <div align="center">
   <img width="300px" src="../IHC/imagens/heuristica5.1_img.png">
   <br>Figura 9: Exemplo de prevenção de erros.
-  <br>ajudar os usuários a não cometer erros oferecendo sugestões de pesquisa
+  <br><b>Ajudar os usuários a não cometer erros oferecendo sugestões de pesquisa</b>
 </div>
 
 <br>
@@ -99,7 +99,7 @@ O sistema deve buscar prevenir que problemas ocorram, eliminando condições mai
 <div align="center">
   <img width="200px" src="../IHC/imagens/heuristica5.2_img.png">
   <br>Figura 10: Exemplo negativo de prevenção de erros.
-  <br>Ao clicar no botão de sair não é exibido nenhuma mensagem de confirmação
+  <br><b>Ao clicar no botão de sair não é exibido nenhuma mensagem de confirmação</b>
 </div>
 
 <br>
@@ -110,7 +110,7 @@ Aconselha-se minimizar a quantidade de informações que o usuário precisa memo
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica6.1_img.png">
   <br>Figura 11: Exemplo de reconhecimento em vez de lembrança.
-  <br>Auxilio ao usuário a relembrar páginas previamente acessadas
+  <br><b>Auxilio ao usuário a relembrar páginas previamente acessadas</b>
 </div>
 
 <br>
@@ -121,7 +121,7 @@ A interface deve permitir que os usuários tenham uma boa experiência com o sis
 <div align="center">
   <img width="300px" src="../IHC/imagens/heuristica7.1_img.png">
   <br>Figura 13: Exemplo de flexibilidade e eficiência de uso.
-  <br>Atalhos que permitem realizar tarefas mais rapidamente
+  <br><b>Atalhos que permitem realizar tarefas mais rapidamente</b>
 </div>
 
 <br>
@@ -129,7 +129,7 @@ A interface deve permitir que os usuários tenham uma boa experiência com o sis
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica7.2_img.png">
   <br>Figura 14: Exemplo negativo de flexibilidade e eficiência de uso.
-  <br>Grande quantidade de cliques para realizar uma ação
+  <br><b>Grande quantidade de cliques para realizar uma ação</b>
 </div>
 
 <br>
@@ -140,7 +140,7 @@ A interface deve ser minimalista e o conteúdo o mais direto possível, para nã
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica8.1_img.png">
   <br>Figura 15: Exemplo de estética e design minimalista.
-  <br>Interface minimalista com conteúdo direto
+  <br><b>Interface minimalista com conteúdo direto</b>
 </div>
 
 <br>
@@ -148,7 +148,7 @@ A interface deve ser minimalista e o conteúdo o mais direto possível, para nã
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica8.2_img.png">
   <br>Figura 16: Exemplo negativo de estética e design minimalista.
-  <br>Grande quantidade de informações
+  <br><b>Grande quantidade de informações</b>
 </div>
 
 <br>
@@ -159,7 +159,7 @@ Em caso de algum erro, mostrar mensagens claras e objetivas e próximas da açã
 <div align="center">
   <img width="300px" src="../IHC/imagens/heuristica9.1_img.png">
   <br>Figura 17: Exemplo de ajuda ao usuário reconhecer, diagnosticar e recuperar-se de erros.
-  <br>Mensagem de erro clara em linguagem simples
+  <br><b>Mensagem de erro clara em linguagem simples</b>
 </div>
 
 <br>
@@ -167,7 +167,7 @@ Em caso de algum erro, mostrar mensagens claras e objetivas e próximas da açã
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica9.2_img.png">
   <br>Figura 18: Exemplo negativo de ajuda ao usuário reconhecer, diagnosticar e recuperar-se de erros.
-  <br>Mensagem de erro com falta de clareza e objetividade
+  <br><b>Mensagem de erro com falta de clareza e objetividade</b>
 </div>
 
 <br>
@@ -178,7 +178,7 @@ Preparar uma ferramenta de auxílio ao usuário, de forma mais detalhada, facili
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica10.1_img.png">
   <br>Figura 19: Exemplo de ajuda e documentação.
-  <br>Item de auxílio para o usuário
+  <br><b>Item de auxílio para o usuário</b>
 </div>
 
 <br>
@@ -186,7 +186,7 @@ Preparar uma ferramenta de auxílio ao usuário, de forma mais detalhada, facili
 <div align="center">
   <img width="200px" src="../IHC/imagens/heuristica10.2_img.jpeg">
   <br>Figura 20: Exemplo negativo de ajuda e documentação.
-  <br> Ao inserir a senha errada nenhuma mensagem de erro é recebida, falta de auxílio
+  <br><b>Ao inserir a senha errada nenhuma mensagem de erro é recebida, falta de auxílio</b>
 </div>
 
 <br>
