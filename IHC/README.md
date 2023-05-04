@@ -61,13 +61,7 @@ O sistema deve dar ao usuário a liberdade de fazer o que quiser, facilitando a 
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica3.1_img.png">
   <br>Figura 5: Exemplo de controle e liberdade do usuário.
-</div>
-
-<br>
-
-<div align="center">
-  <img width="400px" src="../IHC/imagens/heuristica3.2_img.png">
-  <br>Figura 6: Exemplo negativo de controle e liberdade do usuário.
+  O botão 'desfazer' permite cancelar o envio da mensagem 
 </div>
 
 <br>
@@ -112,13 +106,6 @@ Aconselha-se minimizar a quantidade de informações que o usuário precisa memo
 <div align="center">
   <img width="400px" src="../IHC/imagens/heuristica6.1_img.png">
   <br>Figura 11: Exemplo de reconhecimento em vez de lembrança.
-</div>
-
-<br>
-
-<div align="center">
-  <img width="400px" src="../IHC/imagens/heuristica6.2_img.png">
-  <br>Figura 12: Exemplo negativo de reconhecimento em vez de lembrança.
 </div>
 
 <br>
