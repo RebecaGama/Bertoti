@@ -1,5 +1,5 @@
 <h1 align="center">Aplicação da Inteligência Artificial em uma área especifica</h1>
-<a href="../IHC/Inteligência Artificial para deficientes auditivos.pdf">Artigo - Inteligência Artificial para deficientes auditivos</a>
+<div align="center"><a href="../IHC/Inteligência Artificial para deficientes auditivos.pdf">Artigo - Inteligência Artificial para deficientes auditivos</a></div>
 
 <br><br>
 
