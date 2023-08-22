@@ -2,4 +2,17 @@
 
 >Exemplo UML
 
-![DiagramaDeClasse](https://github.com/RebecaGama/Bertoti/assets/102360635/cad9cfe6-b588-4d79-8662-d07b38b027a1)
+![DiagramaDeClasse](https://github.com/RebecaGama/Bertoti/assets/102360635/3fa007bf-acff-4708-8a60-4160bcb7a674)
+
+>Código
+
+Main.java (src/Main.java)
+
+```java
+import classes.Cliente;
+
+public class Main {
+    
+    }
+}
+```
