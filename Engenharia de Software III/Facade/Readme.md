@@ -1,0 +1,5 @@
+# Facade
+
+>Exemplo
+
+>Código
