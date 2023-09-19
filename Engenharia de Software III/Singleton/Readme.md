@@ -1,0 +1,5 @@
+# Singleton
+
+>Exemplo
+
+>Código
