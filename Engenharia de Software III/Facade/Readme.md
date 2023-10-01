@@ -18,16 +18,16 @@ class Ingresso {
         camaroteIngresso = new CamaroteIngresso();
     }
 
-    public void playPista(String pistaFile) {
-        pistaIngresso.playPista(pistaFile);
+    public void comprarPista(String pistaFile) {
+        pistaIngresso.comprarPista(pistaFile);
     }
 
-    public void playFrontStage(String frontStageFile) {
-        frontStageIngresso.playFrontStage(frontStageFile);
+    public void comprarFrontStage(String frontStageFile) {
+        frontStageIngresso.comprarFrontStage(frontStageFile);
     }
 
-    public void playCamarote(String camaroteFile) {
-        camaroteIngresso.playCamarote(camaroteFile);
+    public void comprarCamarote(String camaroteFile) {
+        camaroteIngresso.comprarCamarote(camaroteFile);
     }
 }
 ```
