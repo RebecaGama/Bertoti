@@ -2,6 +2,8 @@
 
 >Exemplo
 
+![DiagramaMVC](https://github.com/RebecaGama/Bertoti/assets/102360635/82578d1b-39de-4c5a-8dee-df664b19ebc0)
+
 >Código
 
 ```java
