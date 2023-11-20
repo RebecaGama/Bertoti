@@ -2,7 +2,7 @@
 
 >Exemplo
 
-![DiagramaComposite](https://github.com/RebecaGama/Bertoti/assets/102360635/bdcb4112-165f-42df-9b2b-57b82e737ccb)
+![DiagramaComposite](https://github.com/RebecaGama/Bertoti/assets/102360635/84bb5e74-295c-4bb1-9337-e36730f0c2eb)
 
 >Código
 
