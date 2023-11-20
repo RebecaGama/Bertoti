@@ -2,7 +2,7 @@
 
 >Exemplo
 
-![DiagramaObserver](https://github.com/RebecaGama/Bertoti/assets/102360635/331af7f5-657a-427b-8c67-865ebdf410f7)
+![DiagramaObserver](https://github.com/RebecaGama/Bertoti/assets/102360635/19bacab5-2c13-4a03-8667-560db6759b48)
 
 >Código
 
