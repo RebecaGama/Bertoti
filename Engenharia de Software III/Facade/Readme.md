@@ -2,7 +2,7 @@
 
 >Exemplo
 
-![DiagramaFacade](https://github.com/RebecaGama/Bertoti/assets/102360635/af9fa710-010b-4aa8-922c-a5ce7670605a)
+![DiagramaFacade](https://github.com/RebecaGama/Bertoti/assets/102360635/5fd57044-e8da-4ab2-b442-e82d6306181e)
 
 >Código
 
