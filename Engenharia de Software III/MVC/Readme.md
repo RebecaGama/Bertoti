@@ -1,8 +1,9 @@
-# MVC (strategy + observer + composite)
+# MVC (Strategy + Composite + Observer + Facade + Singleton)
 
 >Exemplo
 
-![DiagramaMVC](https://github.com/RebecaGama/Bertoti/assets/102360635/267585a1-e2ab-413d-9f1a-f3da42ea3cad)
+![DiagramaMVC](https://github.com/RebecaGama/Bertoti/assets/102360635/0817cded-eeaf-4d04-ac20-6e6f061c6ed6)
+
 
 >Código
 
