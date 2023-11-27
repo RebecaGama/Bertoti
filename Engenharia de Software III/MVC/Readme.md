@@ -216,3 +216,45 @@ public class Show {
 
 }
 ```
+
+```java
+import java.util.List;
+
+public class Facade {
+    private Controller controller;
+    private View view;
+
+    public Facade() {
+        this.controller = new Controller();
+        this.view = new View(controller);
+    }
+
+    public List<Show> emitirIngresso() {
+        return controller.lista();
+       
+    }
+
+    public List<Show> imprimir() {
+        return controller.lista();
+       
+    }
+}
+```
+
+```java
+import java.util.List;
+
+class Observador implements Observer {
+    private String email;
+
+    public Observador(String email) {
+        this.artista = artista;
+    }
+
+    public void update(List l) {
+        System.out.println("A lista foi atualizada");
+      
+    }
+
+}
+```
